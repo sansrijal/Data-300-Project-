@@ -1,1 +1,2 @@
 # Data-300-Project-
+The goal of this project is to analyze consumer behavior in the skincare category using Sephora reviews. The objective is to gain meaningful information from customer reviews and feedback in order to analyze their experiences, preferences, and concerns. The analysis doesn't only focus on the overall satisfaction but delves deeper into the customer perceptions regarding various attributes like product performance, ingredients, limited editions, and customer-specific treasured attributes.
